@@ -10,8 +10,3 @@
 
 <h2>How To Reach Me</h2>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/misaelmarquez/">Misael Marquez LinkedIn</a> </p>
-
-<!---
-mr-misa/mr-misa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
