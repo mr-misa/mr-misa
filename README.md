@@ -1,4 +1,4 @@
-<h1>Hello! 🙋‍♂️</h1>
+<h1>Hello! 🙋🏽‍♂️</h1>
 <p>Hi, my name is Misael, I go by Misa. Here on GitHub I am @mr-misa.</p>
 <p>I am interested in anything that has to do with technology! Topics such as smart home automation, 3D printing, software and full stack web development are just a few of the items that peak my internest.</p>
 <p>I am currently employeed at Intel Corp. as a Manufacturing Software Development Engineer.</p> 
